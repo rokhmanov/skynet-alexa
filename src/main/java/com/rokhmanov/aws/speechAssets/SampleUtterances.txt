@@ -1,0 +1,17 @@
+DiskUsageIntent get disk usage for {server}
+DiskUsageIntent get the disk usage for {server}
+DiskUsageIntent get a disk usage for {server}
+DiskUsageIntent what is the disk usage on {server}
+DiskUsageIntent disk usage {server}
+DiskUsageIntent {server}
+
+SupportedServersIntent what servers
+SupportedServersIntent what servers are supported
+SupportedServersIntent which servers are supported
+SupportedServersIntent which servers
+SupportedServersIntent which servers do you know
+SupportedServersIntent what computers
+SupportedServersIntent what computers are supported
+SupportedServersIntent which computers are supported
+SupportedServersIntent which computers
+SupportedServersIntent which computers do you know

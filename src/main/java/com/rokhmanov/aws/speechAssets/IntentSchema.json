@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "DiskUsageIntent",
+      "slots": [
+        {
+          "name": "server",
+          "type": "LIST_OF_SERVERS"
+        }
+      ]
+    },
+    {
+      "intent": "SupportedServersIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
